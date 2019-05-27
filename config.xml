@@ -11,7 +11,8 @@
     <content src="index.html" />
 	
 	
-
+	<widget id="io.cordova.hellocordova" version="0.0.1" android-versionCode="13" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+	</widget>
 	 <plugin name="cordova-plugin-inappbrowser" spec="2.0.2" />
 	
 	<engine name="android" spec="~6.4.0" />
